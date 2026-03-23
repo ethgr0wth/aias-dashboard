@@ -1,0 +1,8 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "b1kiFiUF6zNgnE9vwKfxw"
+uri = "file://aias-dashboard.zip"
+type = "unspecified"
+title = "AiAS Dashboard — Full Source (ZIP)"
